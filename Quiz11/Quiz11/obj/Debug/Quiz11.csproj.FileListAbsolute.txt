@@ -1,0 +1,28 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11\Quiz11\bin\Quiz11.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11\Quiz11\bin\Quiz11.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11\Quiz11\bin\Quiz11.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11\Quiz11\obj\Debug\Quiz11.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11\Quiz11\obj\Debug\Quiz11.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz11\Quiz11\obj\Debug\Quiz11.pdb
+C:\Users\Selin\Desktop\Quiz11\Quiz11\bin\Quiz11.dll.config
+C:\Users\Selin\Desktop\Quiz11\Quiz11\bin\Quiz11.dll
+C:\Users\Selin\Desktop\Quiz11\Quiz11\bin\Quiz11.pdb
+C:\Users\Selin\Desktop\Quiz11\Quiz11\obj\Debug\Quiz11.csprojResolveAssemblyReference.cache
+C:\Users\Selin\Desktop\Quiz11\Quiz11\obj\Debug\Quiz11.dll
+C:\Users\Selin\Desktop\Quiz11\Quiz11\obj\Debug\Quiz11.pdb
+I:\Yeni klasör\Quiz11\Quiz11\bin\Quiz11.dll
+I:\Yeni klasör\Quiz11\Quiz11\bin\Quiz11.pdb
+I:\Yeni klasör\Quiz11\Quiz11\obj\Debug\Quiz11.csprojResolveAssemblyReference.cache
+I:\Yeni klasör\Quiz11\Quiz11\obj\Debug\Quiz11.dll
+I:\Yeni klasör\Quiz11\Quiz11\obj\Debug\Quiz11.pdb
+D:\Yeni klasör\Quiz11\Quiz11\bin\Quiz11.dll.config
+D:\Yeni klasör\Quiz11\Quiz11\bin\Quiz11.dll
+D:\Yeni klasör\Quiz11\Quiz11\bin\Quiz11.pdb
+D:\Yeni klasör\Quiz11\Quiz11\obj\Debug\Quiz11.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\Quiz11\Quiz11\obj\Debug\Quiz11.dll
+D:\Yeni klasör\Quiz11\Quiz11\obj\Debug\Quiz11.pdb
+C:\Users\Elif Öztürk\Desktop\gfdg\Quiz11\Quiz11\bin\Quiz11.dll
+C:\Users\Elif Öztürk\Desktop\gfdg\Quiz11\Quiz11\bin\Quiz11.pdb
+C:\Users\Elif Öztürk\Desktop\gfdg\Quiz11\Quiz11\obj\Debug\Quiz11.csprojResolveAssemblyReference.cache
+C:\Users\Elif Öztürk\Desktop\gfdg\Quiz11\Quiz11\obj\Debug\Quiz11.dll
+C:\Users\Elif Öztürk\Desktop\gfdg\Quiz11\Quiz11\obj\Debug\Quiz11.pdb
